@@ -17,7 +17,7 @@ class dbms
 
          void facultylogin(); //enter-the-marks
 
-         void adminview();//show-all-data
+         
 }db; //object declared
 
 // definition of member functions 
